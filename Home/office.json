@@ -3,6 +3,34 @@
     {
       "officename": "제주 O-PEACE",
       "regionname": "제주도",
+      "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/제주%20O-PEACE.jpeg",
+      "introduceurl": "",
+      "latitude": 27,
+      "longitude": 127,
+      "spots": [
+        {
+          "title": "한라산",
+          "latitude": 26.9,
+          "longitude": 126.9,
+          "type": "cafe"
+        },
+        {
+          "title": "한라산",
+          "latitude": 26.9,
+          "longitude": 126.9,
+          "type": "cafe"
+        },
+        {
+          "title": "한라산",
+          "latitude": 26.9,
+          "longitude": 126.9,
+          "type": "cafe"
+        }
+      ]
+    },
+    {
+      "officename": "바나나오피스",
+      "regionname": "제주도",
       "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/바나나오피스.jpeg",
       "introduceurl": "",
       "latitude": 27,
