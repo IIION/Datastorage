@@ -1,0 +1,14 @@
+{
+  content: [
+      {
+        "title": "내 성격에 맞는 장소 찾는 법",
+        "imageURL": "",
+        "introduceURL: ""
+      },
+      {
+        "title": "바다마을에서 보낸 일주일",
+        "imageURL": "",
+        "introduceURL": ""
+      }
+  ]
+}
