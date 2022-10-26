@@ -5,6 +5,7 @@
       "regionname": "제주도",
       "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/opiece.jpeg",
       "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/opiece.json",
+      "galleryurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/opiecegallery.json",
       "latitude": 27,
       "longitude": 127,
       "spots": [
@@ -33,6 +34,7 @@
       "regionname": "제주도",
       "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/bananaopiece.jpeg",
       "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/bananaopiece.json",
+      "galleryurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/bananaopiecegallery.json",
       "latitude": 27,
       "longitude": 127,
       "spots": [
