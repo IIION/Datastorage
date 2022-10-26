@@ -3,8 +3,8 @@
     {
       "officename": "제주 O-PEACE",
       "regionname": "제주도",
-      "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/제주%20O-PEACE.jpeg",
-      "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/제주%20O-PEACE.json",
+      "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/opiece.jpeg",
+      "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/opiece.json",
       "latitude": 27,
       "longitude": 127,
       "spots": [
@@ -31,8 +31,8 @@
     {
       "officename": "바나나오피스",
       "regionname": "제주도",
-      "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/바나나오피스.jpeg",
-      "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/바나나오피스.json",
+      "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/bananaopiece.jpeg",
+      "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/bananaopiece.json",
       "latitude": 27,
       "longitude": 127,
       "spots": [
