@@ -1,0 +1,30 @@
+{
+  "context": [
+    {
+      "officename": "제주 O-PEACE",
+      "regionname": "제주도",
+      "imageurl": "",
+      "introduceurl": "",
+      "latitude": 27,
+      "longitude": 127,
+      "spots": [
+        {
+          "title": "한라산",
+          "latitude": 26.9,
+          "longitude": 126.9,
+          "type": "cafe"
+        },
+        {
+          "title": "한라산",
+          "latitude": 26.9,
+          "longitude": 126.9,
+          "type": "cafe"
+        },
+        {
+          "title": "한라산",
+          "latitude": 26.9,
+          "longitude": 126.9,
+          "type": "cafe"
+        }
+      ]
+    }
