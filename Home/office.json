@@ -3,7 +3,7 @@
     {
       "officename": "제주 O-PEACE",
       "regionname": "제주도",
-      "imageurl": "",
+      "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/바나나오피스.jpeg",
       "introduceurl": "",
       "latitude": 27,
       "longitude": 127,
@@ -28,3 +28,5 @@
         }
       ]
     }
+  ]
+}
