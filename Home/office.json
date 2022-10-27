@@ -71,25 +71,85 @@
       "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/bananaopiece.jpeg",
       "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/bananaopiece.json",
       "galleryurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/bananaopiecegallery.json",
-      "latitude": 27,
-      "longitude": 127,
+      "latitude": 33.4871911,
+      "longitude": 126.4851654,
       "spots": [
         {
-          "title": "한라산",
-          "latitude": 26.9,
-          "longitude": 126.9,
+          "title": "경미해장국",
+          "latitude": 33.4885752,
+          "longitude": 126.4829022,
+          "type": "retaurant"
+        },
+        {
+          "title": "차이나 하우스",
+          "latitude": 33.4853817,
+          "longitude": 126.4815199,
           "type": "cafe"
         },
         {
-          "title": "한라산",
-          "latitude": 26.9,
-          "longitude": 126.9,
-          "type": "cafe"
+          "title": "춘리 마라탕",
+          "latitude": 33.4843427,
+          "longitude": 126.4808639,
+          "type": "retaurant"
         },
         {
           "title": "한라산",
-          "latitude": 26.9,
-          "longitude": 126.9,
+          "latitude": 33.4853817,
+          "longitude": 126.4815199,
+          "type": "cafe"
+        },
+        {
+          "title": "",
+          "latitude": ,
+          "longitude": ,
+          "type": "restaurant"
+        },
+        {
+          "title": "밀면 맛있는집",
+          "latitude": 33.4865006,
+          "longitude": 126.4824509,
+          "type": "restaurant"
+        },
+        {
+          "title": "도토리 묵 마을",
+          "latitude": 33.4867839,
+          "longitude": 126.4834219,
+          "type": "restaurant"
+        },
+        {
+          "title": "물팡과 허벅",
+          "latitude": 33.4856839,
+          "longitude": 126.4851398,
+          "type": "restaurant"
+        },
+        {
+          "title": "올띠 웨딩카페",
+          "latitude": 33.486216,
+          "longitude": 126.4846842,
+          "type": "cafe"
+        },
+        {
+          "title": "스물다섯",
+          "latitude": 33.4888838,
+          "longitude": 126.4808578,
+          "type": "cafe"
+        },
+        {
+          "title": "테스민",
+          "latitude": 33.4884014,
+          "longitude": 126.4808009,
+          "type": "cafe"
+        },
+        {
+          "title": "도로시",
+          "latitude": 33.4881761,
+          "longitude": 126.4818661,
+          "type": "cafe"
+        },
+        {
+          "title": "카페로드",
+          "latitude": 33.4874419,
+          "longitude": 126.4848081,
           "type": "cafe"
         }
       ]
