@@ -14,14 +14,14 @@
       "color": "Primary_Light"
     }
     {
-      "type": "image",
-      "context": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/bananaopieceGallery/12.jpg"
-    }
-    {
       "type": "Text",
       "font": "ArticleBody",
       "context": "다양한 목적에 맞는 작업실이 있어요.\n라운지, 루프탑, 키친, 미팅룸 등 다양한 공간이 있어요.\n업무를 위한 다양한 서비스를 지원해요.",
       "color": "Tertiary_Light"
+    }
+    {
+      "type": "image",
+      "context": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/bananaopieceGallery/12.jpg"
     }
     {
       "type": "Text",
