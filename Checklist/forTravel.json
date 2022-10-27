@@ -1,286 +1,145 @@
 {
   "context": [
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "신용카드",
-      "color": "Primary_Light"
+      "context": "신용카드"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "충전기",
-      "color": "Primary_Light"
+      "context": "충전기"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "우산/우비",
-      "color": "Primary_Light"
+      "context": "우산/우비"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "우산/우비",
-      "color": "Primary_Light"
+      "context": "우산/우비"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "물티슈",
-      "color": "Primary_Light"
+      "context": "물티슈"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "마스크",
-      "color": "Primary_Light"
+      "context": "마스크"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "손소독제",
-      "color": "Primary_Light"
+      "context": "손소독제"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "잠옷",
-      "color": "Primary_Light"
+      "context": "잠옷"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "속옷",
-      "color": "Primary_Light"
+      "context": "속옷"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "일상복",
-      "color": "Primary_Light"
+      "context": "일상복"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "활동복",
-      "color": "Primary_Light"
+      "context": "활동복"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "겉옷",
-      "color": "Primary_Light"
+      "context": "겉옷"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "양말",
-      "color": "Primary_Light"
+      "context": "양말"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "슬리퍼",
-      "color": "Primary_Light"
+      "context": "슬리퍼"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "모자",
-      "color": "Primary_Light"
+      "context": "모자"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "운동화",
-      "color": "Primary_Light"
+      "context": "운동화"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "수건",
-      "color": "Primary_Light"
+      "context": "수건"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "치약,칫솔,치실",
-      "color": "Primary_Light"
+      "context": "치약,칫솔,치실"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "샴푸, 린스",
-      "color": "Primary_Light"
+      "context": "샴푸, 린스"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "바디워시",
-      "color": "Primary_Light"
+      "context": "바디워시"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "클렌징폼",
-      "color": "Primary_Light"
+      "context": "클렌징폼"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "스킨로션",
-      "color": "Primary_Light"
+      "context": "스킨로션"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "화장품",
-      "color": "Primary_Light"
+      "context": "화장품"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "선크림",
-      "color": "Primary_Light"
+      "context": "선크림"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "면도기",
-      "color": "Primary_Light"
+      "context": "면도기"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "렌즈",
-      "color": "Primary_Light"
+      "context": "렌즈"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "렌즈 세척액",
-      "color": "Primary_Light"
+      "context": "렌즈 세척액"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "왁스, 스프레이",
-      "color": "Primary_Light"
+      "context": "왁스, 스프레이"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "마스크팩",
-      "color": "Primary_Light"
+      "context": "마스크팩"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "드라이기",
-      "color": "Primary_Light"
+      "context": "드라이기"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "화장 용품",
-      "color": "Primary_Light"
+      "context": "화장 용품"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "헤어에센스",
-      "color": "Primary_Light"
+      "context": "헤어에센스"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "여성용품",
-      "color": "Primary_Light"
+      "context": "여성용품"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "기존에 매일 먹는약",
-      "color": "Primary_Light"
+      "context": "기존에 매일 먹는약"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "밴드",
-      "color": "Primary_Light"
+      "context": "밴드"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "벌레약",
-      "color": "Primary_Light"
+      "context": "벌레약"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "감기약",
-      "color": "Primary_Light"
+      "context": "감기약"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "소염제",
-      "color": "Primary_Light"
+      "context": "소염제"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "연고",
-      "color": "Primary_Light"
+      "context": "연고"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "지사제",
-      "color": "Primary_Light"
+      "context": "지사제"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "소화제",
-      "color": "Primary_Light"
+      "context": "소화제"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "진통제",
-      "color": "Primary_Light"
+      "context": "진통제"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "파스",
-      "color": "Primary_Light"
+      "context": "파스"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "담요",
-      "color": "Primary_Light"
+      "context": "담요"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "쓰레기봉투",
-      "color": "Primary_Light"
+      "context": "쓰레기봉투"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "캐리어",
-      "color": "Primary_Light"
+      "context": "캐리어"
     },
     {
-      "type": "Text",
-      "font": "fotnote",
-      "context": "목베개",
-      "color": "Primary_Light"
+      "context": "목베개"
     }
   ]
 }
