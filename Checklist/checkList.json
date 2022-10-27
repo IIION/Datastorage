@@ -2,21 +2,21 @@
   "context": [
     {
       "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Checklist/Icon/forDeveloper.png",
-      "title": "개발자라면 필수로 챙겨야할 물품리스트",
+      "title": "개발자 필수 물품리스트",
       "tintColor": "FFC552",
       "tintString": "개발자",
       "listurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Checklist/forDeveloper.json"
     },
     {
       "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Checklist/Icon/forDesigner.png",
-      "title": "디자이너라면 필수로 챙겨야할 물품리스트",
+      "title": "디자이너 필수 물품리스트",
       "tintColor": "EA7979",
       "tintString": "디자이너",
       "listurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Checklist/forDesigner.json"
     },
     {
       "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Checklist/Icon/forTravel.png",
-      "title": "여행을 위한 기본 체크 리스트",
+      "title": "여행 기본 체크 리스트",
       "tintColor": "4D89E2",
       "tintString": "여행을",
       "listurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Checklist/forTravel.json"
