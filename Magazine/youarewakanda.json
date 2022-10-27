@@ -1,71 +1,70 @@
 {
-    "context": [
-      {
-        "type": "text",
-        "font": "normal",
-        "context": "안녕하세요. 여러분 저희는 여러분들의 즐거운 워케이션(Wakation)을 위한 가이드 워케이드(Wackade)에요!\n저희들은 여러분들의 워케이션을 더욱 즐겁게 만들기 위해 앞으로도 다양하고 재밌는 소식들을 들고올 예정이에요!\n워케이션을 처음 가보시는 초보자들부터 이미 경험이 풍부하신 GO IN WATER(숙련자) 모두 즐거운 워케이션 가이드 서비스가 되볼게요!",
-        "color": "Primary"
-      },
-      {
-        "type": "text",
-        "font": "title1",
-        "context": "워칸다(Wakanda)가 뭔가요?",
-        "color": "Primary"
-      },
-      {
-        "type": "text",
-        "font": "normal",
-        "context": "일(Walk)과 여행(Vacation)을 함께 즐기는 최근 직장인들의 트랜드를 워케이션(Wakation)이라고 하죠!\n워칸다(Wakanda)는 워케이션(Wakation)을 즐기러 간다(Kanda)!! 를 재밌게 표현한 뜻이에요.\n모 영화에서 이런 말이 있죠? “와칸다 포에버!!” 우리 워케이드(Wackade)와 여러분이 포에버(Forever) 하기를 바라는 마음에 여러분의 애칭을 지어 봤어요. 그럼 앞으로도 잘 부탁드려요 여러분. 🤓",
-        "color": "Primary"
-      },
-      {
-        "type": "text",
-        "font": "title1",
-        "context": "워케이드(Wakade)를 어떻게 사용해야 하죠?",
-        "color": "Primary"
-      },
-      {
-        "type": "text",
-        "font": "normal",
-        "context": "워케이드(Wakade)는 워칸다(Wakanda) 여러분들의 즐거운 워케이션을 가이드하기 위해 만들어졌어요!\n아직까지 많은 정보와 기능이 없지만 여러분과 함께 성장해 즐겁고, 기억에 남는 일과 여행을 만들도록 노력할게요!\n현재 워케이드(Wakade)는 다음과 같은 기능이 있어요",
-        "color": "Primary"
-      },
-      {
-        "type": "text",
-        "font": "title2",
-        "context": "📝 워케이션 계획을 더욱 꼼꼼하게! 체크리스트",
-        "color": "Primary"
-      },
-      {
-        "type": "text",
-        "font": "normal",
-        "context": "워칸다(Wakanda) 여러분들을 위한 워케이션만을 위한 체크리스트 기능이 있어요!\n여행 뿐 아니라 일을 해야하기 때문에 준비해야할 것이 너무나도 많죠 🥲 저희는 노트북, 멀티탭, 목배게 등 여러분들이 잊어버리고 워케이션을 떠나는 것을 방지하기 위해 체크리스트를 제공해요!\n또한 워케이션(Wakation)이 처음인 분들을 위한 다양한 체크리스트 템플릿도 제공하니 사용해 보시면 워케이션(Wakation) 준비가 더욱 간편해질 거에요!!",
-        "color": "Primary"
-      },
-      {
-        "type": "text",
-        "font": "title2",
-        "context": "📙 워케이션 꿀팁과 이슈! 매거진",
-        "color": "Primary"
-      },
-      {
-        "type": "text",
-        "font": "normal",
-        "context": "워케이드(Wakade)는 워칸다(Wakanda) 여러분들을 위한 매거진을 운영해요!\n워케이션(Wakation)을 위한 꿀팁부터 다양한 소식들까지 앞으로 주기적으로 매거진을 올려보도록 할게요.\n일하다가 심심하실 때 한번씩 봐주면 재밌을 거라는거!! 앞으로 많이 봐주세요. 😇",
-        "color": "Primary"
-      },
-      {
-        "type": "text",
-        "font": "title2",
-        "context": "👀 워케이션 공유 오피스와 주변 정보를 한눈에! 정보제공",
-        "color": "Primary"
-      },
-      {
-        "type": "text",
-        "font": "normal",
-        "context": "지금까지 인터넷에서 워케이션(Wakation) 정보를 찾느라 힘드셨죠 🥲 워케이드(Wakade)는 워칸다(Wakanda) 여러분들을 위해 공유 오피스 및 주변 정보를 모으고 있어요! \n워케이션(Wakation)에서 제일 중요한거 머니머니(Money) 해도 일할 공간이겠죠?\n저희 워케이드(Wakade)는 공유 오피스 또는 워칸다(Wakanda) 여러분들이 편하게 일을 할 수 있는 장소들을 소개해 보려고 해요! 앞으로도 저희 워케이드(Wakade)를 통해 즐겁고 편한 워케이션(Wakation)이 되길 바래요!",
-        "color": "Primary"
-      }
-      ]
-  }
-  
+  "content": [
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "안녕하세요. 여러분 저희는 여러분들의 즐거운 워케이션(Wakation)을 위한 가이드 워케이드(Wackade)에요!\n저희들은 여러분들의 워케이션을 더욱 즐겁게 만들기 위해 앞으로도 다양하고 재밌는 소식들을 들고올 예정이에요!\n워케이션을 처음 가보시는 초보자들부터 이미 경험이 풍부하신 GO IN WATER(숙련자) 모두 즐거운 워케이션 가이드 서비스가 되볼게요!",
+      "color": "Tertiary_Light"
+    },
+    {
+      "type": "Text",
+      "font": "title2",
+      "context": "워칸다(Wakanda)가 뭔가요?",
+      "color": "Primary_Light"
+    },
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "일(Walk)과 여행(Vacation)을 함께 즐기는 최근 직장인들의 트랜드를 워케이션(Wakation)이라고 하죠!\n워칸다(Wakanda)는 워케이션(Wakation)을 즐기러 간다(Kanda)!! 를 재밌게 표현한 뜻이에요.\n모 영화에서 이런 말이 있죠? “와칸다 포에버!!” 우리 워케이드(Wackade)와 여러분이 포에버(Forever) 하기를 바라는 마음에 여러분의 애칭을 지어 봤어요. 그럼 앞으로도 잘 부탁드려요 여러분. 🤓",
+      "color": "Tertiary_Light"
+    },
+    {
+      "type": "Text",
+      "font": "title2",
+      "context": "워케이드(Wakade)를 어떻게 사용해야 하죠?",
+      "color": "Primary_Light"
+    },
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "워케이드(Wakade)는 워칸다(Wakanda) 여러분들의 즐거운 워케이션을 가이드하기 위해 만들어졌어요!\n아직까지 많은 정보와 기능이 없지만 여러분과 함께 성장해 즐겁고, 기억에 남는 일과 여행을 만들도록 노력할게요!\n현재 워케이드(Wakade)는 다음과 같은 기능이 있어요",
+      "color": "Tertiary_Light"
+    },
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "📝 워케이션 계획을 더욱 꼼꼼하게! 체크리스트",
+      "color": "Primary_Light"
+    },
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "워칸다(Wakanda) 여러분들을 위한 워케이션만을 위한 체크리스트 기능이 있어요!\n여행 뿐 아니라 일을 해야하기 때문에 준비해야할 것이 너무나도 많죠 🥲 저희는 노트북, 멀티탭, 목배게 등 여러분들이 잊어버리고 워케이션을 떠나는 것을 방지하기 위해 체크리스트를 제공해요!\n또한 워케이션(Wakation)이 처음인 분들을 위한 다양한 체크리스트 템플릿도 제공하니 사용해 보시면 워케이션(Wakation) 준비가 더욱 간편해질 거에요!!",
+      "color": "Tertiary_Light"
+    },
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "📙 워케이션 꿀팁과 이슈! 매거진",
+      "color": "Primary_Light"
+    },
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "워케이드(Wakade)는 워칸다(Wakanda) 여러분들을 위한 매거진을 운영해요!\n워케이션(Wakation)을 위한 꿀팁부터 다양한 소식들까지 앞으로 주기적으로 매거진을 올려보도록 할게요.\n일하다가 심심하실 때 한번씩 봐주면 재밌을 거라는거!! 앞으로 많이 봐주세요. 😇",
+      "color": "Tertiary_Light"
+    },
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "👀 워케이션 공유 오피스와 주변 정보를 한눈에! 정보제공",
+      "color": "Primary_Light"
+    },
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "지금까지 인터넷에서 워케이션(Wakation)정보를 찾느라 힘드셨죠 🥲 워케이드(Wakade)는 워칸다(Wakanda) 여러분들을 위해 공유 오피스 및 주변 정보를 모으고 있어요!\n워케이션(Wakation)에서 제일 중요한거 머니머니(Money)해도 일할 공간이겠죠?\n저희 워케이드(Wakade)는 공유 오피스 또는 워칸다(Wakanda)여러분들이 편하게 일을 할 수 있는 장소들을 소개해 보려고 해요! 앞으로도 저희 워케이드(Wakade)를 통해 즐겁고 편한 워케이션(Wakation)이 되길 바래요!",
+      "color": "Tertiary_Light"
+    },   
+  ]
+}
