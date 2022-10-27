@@ -20,7 +20,7 @@
     },
     {
       "type": "Image",
-      "context": "https://github.com/IIION/WorkadeData/blob/main/Home/Image/Magazine/WorkDesk02.png"
+      "context": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/WorkDesk01.jpg"
     },
     {
       "type": "Text",
@@ -30,7 +30,7 @@
     },
     {
       "type": "Image",
-      "context": "https://github.com/IIION/WorkadeData/blob/main/Home/Image/Magazine/WorkDesk03.png"
+      "context": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/WorkDesk02.jpg"
     },
     {
       "type": "Text",
@@ -40,7 +40,7 @@
     },
     {
       "type": "Image",
-      "context": "https://github.com/IIION/WorkadeData/blob/main/Home/Image/Magazine/WorkDesk04.png"
+      "context": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/WorkDesk03.jpg"
     },
     {
       "type": "Text",
@@ -50,13 +50,13 @@
     },
     {
       "type": "Image",
-      "context": "https://github.com/IIION/WorkadeData/blob/main/Home/Image/Magazine/WorkDesk05.png"
+      "context": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/WorkDesk04.jpg"
     },
-     {
+    {
       "type": "Text",
       "font": "articleBody",
       "context": "업무 전용 공간인 데스크와 공용 책상등 숙소시설에서 손쉽게 확인 할 수 있어요!\n어때요 오늘의 꿀팁 많은 도움이 되셨나요? 앞으로도 워칸다(Wakanda) 여러분들을 위한 워케이션(Warkation) 꿀팁들을 많이 들고와 볼게요!",
       "color": "Tertiary_Light"
-    }  
+    }
   ]
 }
