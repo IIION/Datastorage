@@ -10,21 +10,57 @@
       "longitude": 127,
       "spots": [
         {
-          "title": "한라산",
-          "latitude": 26.9,
-          "longitude": 126.9,
+          "title": "폴스키친",
+          "latitude": 33.5352183,
+          "longitude": 126.6279621,
+          "type": "restaurant"
+        },
+        {
+          "title": "Ly-Rics",
+          "latitude": 33.5351693,
+          "longitude": 126.6283361,
+          "type": "restaurant"
+        },
+        {
+          "title": "해오름가든",
+          "latitude": 33.5319835,
+          "longitude": 126.6265803,
+          "type": "restaurant"
+        },
+        {
+          "title": "청우가든",
+          "latitude": 33.5306844,
+          "longitude": 126.6259431,
+          "type": "restaurant"
+        },
+        {
+          "title": "신촌풍경",
+          "latitude": 33.5316173,
+          "longitude": 126.628933,
+          "type": "restaurant"
+        },
+        {
+          "title": "별장가든",
+          "latitude": 33.5357333,
+          "longitude": 126.6314383,
+          "type": "restaurant"
+        },
+        {
+          "title": "가베또롱",
+          "latitude": 33.5348947,
+          "longitude": 126.6294292,
           "type": "cafe"
         },
         {
-          "title": "한라산",
-          "latitude": 26.9,
-          "longitude": 126.9,
+          "title": "딜레탕트",
+          "latitude": 33.5350575,
+          "longitude": 126.628334,
           "type": "cafe"
         },
         {
-          "title": "한라산",
-          "latitude": 26.9,
-          "longitude": 126.9,
+          "title": "조천리 앞 바다",
+          "latitude": 33.5353119,
+          "longitude": 126.6290835,
           "type": "cafe"
         }
       ]
