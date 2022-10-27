@@ -1,20 +1,114 @@
 {
   "content": [
     {
-      "font": "normal",
-      "type": "text",
-      "context": "휴양지에서 일하다’를 캐치프레이즈로 내걸고 2019년 제주 조천읍에 오픈한 오-피스는 워케이션 개념의 확산을 꾀하는 기업이다. ",
-      "color": "Primary"
-    },
+      "type": "Text",
+      "font": "Title1",
+      "context": "오피스 제주",
+      "color": "Background_Light"
+    }
+    {
+      "type": "Text",
+      "font": "Title2",
+      "context": "오피스의 매력 포인트",
+      "color": "Primary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "ArticleBody",
+      "context": "**1층에 코워킹 스페이스가 있어, 워케이션으로 적합해요.\n오션뷰 객실에서 편안한 휴식을 취해보세요.\n넷플릭스 무료 이용이 가능해요.",
+      "color": "Tertiary_Light"
+    }
     {
       "type": "image",
-      "context": "https://picsum.photos/id/237/200/300"
-    },
+      "context": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/opieceGallery/31.jpg"
+    }
     {
-      "font": "normal",
-      "type": "text",
-      "context": "사람들이 어디서든 일하고 살아볼 수 있도록 새로운 길을 만들고 이 길을 선택한 이들을 연결한다는 비전을 토대로, 한 마을 안에 공유 오피스와 여러 로컬 숙소가 어우러진 마을호텔을 운영 중이다.  ",
-      "color": "Primary"
+      "type": "Text",
+      "font": "Title2",
+      "context": "오피스 소개",
+      "color": "Primary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "ArticleBody",
+      "context": "New Workers Office",
+      "color": "Primary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "ArticleBody",
+      "context": "오-피스는 2019년 11월 제주 조천읍 조천리에 리모트워커를 위한 공유오피스를 열며 시작되었습니다.\n새로운 시대, 새로운 방식으로 일하는 사람들 New Worker를위한 공간을 만들어 서비스합니다.\nO-PEACE JEJU에서 보이는 바다는 조천포구와 철새도래지인 '대섬'을 품고 있어 평화롭고도 다양한 풍경을 선사합니다. 1층에 바닷마을 공유사무실(코워킹스페이스)을 함께 운영중이며, 프리랜서 또는 리모트워커들이 편하게 일할 수 있습니다.\n도시의 바쁜생활에서 벗어나 코워킹스페이스와 스테이를 함께 이용해 보는 것은 어떠세요?\n방마다 구비되어 있는 TV로 넷플릭스(O-PEACE 계정 사용)와 유튜브도 자유롭게 보면서 지친 일상에 조용한 공간에서 생각을 정리하고 싶으신 분들, 충만한 바다와 함께 평안한 일과 여행을 함께하고 싶으신 분들을 위한 오피스입니다.",
+      "color": "Tertiary_Light"
+    }
+    {
+      "type": "image",
+      "context": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/opieceGallery/21.jpeg"
+    }
+    {
+      "type": "Text",
+      "font": "Title2",
+      "context": "작업실 소개",
+      "color": "Primary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "ArticleBody",
+      "context": "1F 오픈 오피스 | 회의실 | 복합기 | 키친",
+      "color": "Primary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "ArticleBody",
+      "context": "1층에는 넓고 자유로운 오픈 오피스와 화상 회의가 가능한 회의실이 있습니다. 아메리카노와 차, 토스트가 무제한으로 제공되는 키친에서 간단한 식사와 함께 자유로운 업무와 미팅을 해보는 것은 어떠신가요?",
+      "color": "Tertiary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "ArticleBody",
+      "context": "2F LOFT 공간",
+      "color": "Primary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "ArticleBody",
+      "context": "1층보다 아늑하고 따뜻한 감성의 LOFT 공간이 준비되어 있습니다. 집중이 필요하거나 잠시 생각할 시간이 필요할때 LOFT 공간에서 업무를 보는건 어떠신가요? 창 밖의 바다를 보며 명상하기에도 좋습니다.",
+      "color": "Tertiary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "Title2",
+      "context": "가격",
+      "color": "Primary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "ArticleBody",
+      "context": "1/2 Day : 10,000원\n1 Day : 15,000원\n3 Day : 40,000원\n1 Month : 180,000원",
+      "color": "Primary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "Title2",
+      "context": "업무환경",
+      "color": "Primary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "ArticleBody",
+      "context": "22ea 핫데스크 | 10ea 듀얼데스크 | 1, 2 ,4인 미팅 데스크 | 집중 업무공간 | 커피&토스트바 | 휴게공간",
+      "color": "Primary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "Title2",
+      "context": "Contect",
+      "color": "Primary_Light"
+    }
+    {
+      "type": "Text",
+      "font": "ArticleBody",
+      "context": "주소 : 대한민국 제주특별자치도 제주시 조천읍 조천2길 25\n연락처 : 064-783-7539",
+      "color": "Primary_Light"
     }
   ]
 }
