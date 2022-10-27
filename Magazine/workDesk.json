@@ -1,0 +1,62 @@
+{
+  "content": [
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "안녕하세요. 여러분 저희는 여러분들의 즐거운 워케이션(Wakation)을 위한 가이드 워케이드(Wackade)에요!\n오늘은 여러분들의 즐거운 워케이션(Workation)을 위한 꿀팁을 들고와 봤어요!\n다들 워케이션(Workation)을 준비하면서 느꼈던 어려움… 바로 데스크 있는 숙소를 빠르게 찾는법!",
+      "color": "Tertiary_Light"
+    },
+    {
+      "type": "Text",
+      "font": "title2",
+      "context": "데스크 있는 숙소 빠르게 찾는 법!",
+      "color": "Primary_Light"
+    },
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "1️⃣ 먼저 에어비앤비에 접속합니다!",
+      "color": "Primary_Light"
+    },
+    {
+      "type": "Image",
+      "context": "https://github.com/IIION/WorkadeData/blob/main/Home/Image/Magazine/WorkDesk02.png"
+    },
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "2️⃣ 에어비앤비의 필터에 들어가면!",
+      "color": "Primary_Light"
+    },
+    {
+      "type": "Image",
+      "context": "https://github.com/IIION/WorkadeData/blob/main/Home/Image/Magazine/WorkDesk03.png"
+    },
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "3️⃣ 편의 시설 카테고리에 업무 전용 공간이 생겼어요!",
+      "color": "Primary_Light"
+    },
+    {
+      "type": "Image",
+      "context": "https://github.com/IIION/WorkadeData/blob/main/Home/Image/Magazine/WorkDesk04.png"
+    },
+    {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "4️⃣ 업무 전용공간을 체크하고 원하는 지역을 검색하면!",
+      "color": "Primary_Light"
+    },
+    {
+      "type": "Image",
+      "context": "https://github.com/IIION/WorkadeData/blob/main/Home/Image/Magazine/WorkDesk05.png"
+    },
+     {
+      "type": "Text",
+      "font": "articleBody",
+      "context": "업무 전용 공간인 데스크와 공용 책상등 숙소시설에서 손쉽게 확인 할 수 있어요!\n어때요 오늘의 꿀팁 많은 도움이 되셨나요? 앞으로도 워칸다(Wakanda) 여러분들을 위한 워케이션(Warkation) 꿀팁들을 많이 들고와 볼게요!",
+      "color": "Tertiary_Light"
+    }  
+  ]
+}
