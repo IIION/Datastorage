@@ -1,14 +1,24 @@
 {
   "content": [
       {
-        "title": "내 성격에 맞는 장소 찾는 법",
+        "title": "내 성격에 맞는\n장소 찾는 법",
         "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/findplace.jpg",
         "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Magazine/findplace.json"
       },
       {
-        "title": "바다마을에서 보낸 일주일",
+        "title": "바다마을에서\n보낸 일주일",
         "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/youarewakanda.jpeg",
-        "introduceurl": ""
+        "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Magazine/youarewakanda.json"
+      },
+      {
+        "title": "데스크 있는 숙소를\n빠르게 찾는법",
+        "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/WorkDesk01.jpg",
+        "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Magazine/workDesk.json"
+      },
+      {
+        "title": "워케이션(Wakation)\n넌 누구니",
+        "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/Workation.jpg",
+        "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Magazine/workation.json"
       }
   ]
 }
