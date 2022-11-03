@@ -2,17 +2,17 @@
   "content": [
     {
       "title": "워케이션(Workation)\n넌 누구냐!",
-      "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/Workation.jpg",
+      "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/Workation.png",
       "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Magazine/workation.json"
     },
     {
       "title": "여러분은\n워칸다(Wakanda)에요!",
-      "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/Wakanda.jpg",
+      "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/Wakanda.png",
       "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Magazine/youarewakanda.json"
     },
     {
       "title": "업무를 위한 숙소\n빠르게 찾는법!",
-      "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/WorkDesk.jpg",
+      "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Magazine/WorkDesk.png",
       "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Magazine/workDesk.json"
     }
   ]
