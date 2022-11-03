@@ -3,25 +3,25 @@
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "안녕하세요. 여러분 저희는 여러분들의 즐거운 워케이션(Wakation)을 위한 가이드 워케이드(Wackade)에요!\n오늘은 워케이션(Wakation)이 무엇인지 함께 알아보려고 해요.😎 최근에 뉴스에도 나오고 주변 사람들도 한번씩 가보는 워케이션(Wakation) 넌 누구냐!! 지금부터 차근차근 알아보도록 할게요.",
+      "context": "안녕하세요. 여러분 저희는 여러분들의 즐거운 워케이션(Workation)을 위한 가이드 워케이드(Workade)에요!\n오늘은 워케이션(Workation)이 무엇인지 함께 알아보려고 해요.😎 최근에 뉴스에도 나오고 주변 사람들도 한번씩 가보는 워케이션(Workation) 넌 누구냐!! 지금부터 차근차근 알아보도록 할게요.",
       "color": "Tertiary_Light"
     },
     {
       "type": "Text",
       "font": "title2",
-      "context": "워케이션(Warkation)이란?",
+      "context": "워케이션(Workation)이란?",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "“일만 하는 출장은 옛날 이야기” 최근에는 늘어난 재택근무와 자율 출근제로인해 많은 사람들이 일과 여행을 함께 하고 있어요. 따라서 일(Wark)과 여행(Vacation)의 합성어인 워케이션(Warkation)이 만들어지게 됬지요!\n특히 국내의 많은 기업에서 워케이션을 통해 충분한 리프레쉬 기간을 가질 수 있으며 이에 따라 직원들 사기를 높이고 재충전 시간을 제공하는 취지가 있다고 해요. 특히 코로나19로 인해 침체된 관광 사업과 지역경제를 활성화 시킬 수 있기에 더욱 빠른 추세로 이 업무형태를 받아들여지고 있다고 해요!",
+      "context": "“일만 하는 출장은 옛날 이야기” 최근에는 늘어난 재택근무와 자율 출근제로인해 많은 사람들이 일과 여행을 함께 하고 있어요. 따라서 일(Work)과 여행(Vacation)의 합성어인 워케이션(Workation)이 만들어지게 됬지요!\n특히 국내의 많은 기업에서 워케이션을 통해 충분한 리프레쉬 기간을 가질 수 있으며 이에 따라 직원들 사기를 높이고 재충전 시간을 제공하는 취지가 있다고 해요. 특히 코로나19로 인해 침체된 관광 사업과 지역경제를 활성화 시킬 수 있기에 더욱 빠른 추세로 이 업무형태를 받아들여지고 있다고 해요!",
       "color": "Tertiary_Light"
     },
     {
       "type": "Text",
       "font": "title2",
-      "context": "워케이션(Warkation)의 장점!",
+      "context": "워케이션(Workation)의 장점!",
       "color": "Primary_Light"
     },
     {
@@ -65,6 +65,6 @@
       "font": "articleBody",
       "context": "오늘의 매거진 ‘워케이션(Workation)이 뭘까요?’ 재밌게 보셨길 바래요. 앞으로도 우리 워칸다(Workanda) 여러분들을 위한 다양한 워케이션(Workation) 소식을 들고오도록 할게요!",
       "color": "Tertiary_Light"
-    }   
+    }
   ]
 }
