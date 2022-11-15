@@ -4,181 +4,181 @@
     {
       "type": "Text",
       "font": "title2",
-      "context": "오피스의 매력 포인트",
+      "content": "오피스의 매력 포인트",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "다양한 목적에 맞는 작업실이 있어요.\n라운지, 루프탑, 키친, 미팅룸 등 다양한 공간이 있어요.\n업무를 위한 다양한 서비스를 지원해요.",
+      "content": "다양한 목적에 맞는 작업실이 있어요.\n라운지, 루프탑, 키친, 미팅룸 등 다양한 공간이 있어요.\n업무를 위한 다양한 서비스를 지원해요.",
       "color": "Tertiary_Light"
     },
     {
       "type": "Image",
-      "context": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/bananaopieceGallery/12.jpg"
+      "content": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/bananaopieceGallery/12.jpg"
     },
     {
       "type": "Text",
       "font": "title2",
-      "context": "오피스 소개",
+      "content": "오피스 소개",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "WE ARE ALL CONNECTED",
+      "content": "WE ARE ALL CONNECTED",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "우리는 모두 연결되어 성장한다.\n바나나는 하나하나 독립된 과일이지만 손바닥의 손가락처럼 연결되어 자랍니다. 바나나에 모이는 이들은 독립적으로 일하지만 공간과 지식, 경험을 공유합니다. 우리는 모두 연결되어있고, 함께 성장합니다. 서로가 가진 정보를 나누고 협업하면서이어지는 너와 나, 바나나",
+      "content": "우리는 모두 연결되어 성장한다.\n바나나는 하나하나 독립된 과일이지만 손바닥의 손가락처럼 연결되어 자랍니다. 바나나에 모이는 이들은 독립적으로 일하지만 공간과 지식, 경험을 공유합니다. 우리는 모두 연결되어있고, 함께 성장합니다. 서로가 가진 정보를 나누고 협업하면서이어지는 너와 나, 바나나",
       "color": "Tertiary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "Working - Playground BANANA",
+      "content": "Working - Playground BANANA",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "크리에이터를 위한 [놀. 일. 터]\n딱딱하고 건조한 통상의 사무실에서는 유연하고 신선한 아이디어가 나오기는 힘들겁니다. 흔들흔들 침대에 누워서 하는 회의는 어떨까요? 혼자 특어박힐 수 있는 동굴 같은 공간이 필요한 순간도 있겠죠? 놀이는 일이 아니지만 일은 놀이일 수도 있습니다. 여기, 바나나에서는.",
+      "content": "크리에이터를 위한 [놀. 일. 터]\n딱딱하고 건조한 통상의 사무실에서는 유연하고 신선한 아이디어가 나오기는 힘들겁니다. 흔들흔들 침대에 누워서 하는 회의는 어떨까요? 혼자 특어박힐 수 있는 동굴 같은 공간이 필요한 순간도 있겠죠? 놀이는 일이 아니지만 일은 놀이일 수도 있습니다. 여기, 바나나에서는.",
       "color": "Tertiary_Light"
     },
     {
       "type": "Image",
-      "context": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/bananaopieceGallery/9.jpg"
+      "content": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/bananaopieceGallery/9.jpg"
     },
     {
       "type": "Text",
       "font": "title2",
-      "context": "작업실 소개",
+      "content": "작업실 소개",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "독립 작업실 - PRIVATE OFFICE",
+      "content": "독립 작업실 - PRIVATE OFFICE",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "3인 이상의 팀이 단독으로 사용할 수 있는 지정 공간이며, 잠금 시스템으로 보안이 강한 사무실입니다. 신청 내용에 따라 데스크 및 캐비닛이 준비되며 해당 사무실을 독립적으로 사용할 수 있는 장점이 있습니다.",
+      "content": "3인 이상의 팀이 단독으로 사용할 수 있는 지정 공간이며, 잠금 시스템으로 보안이 강한 사무실입니다. 신청 내용에 따라 데스크 및 캐비닛이 준비되며 해당 사무실을 독립적으로 사용할 수 있는 장점이 있습니다.",
       "color": "Tertiary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "1인 지정 개인 작업실 - OPEN DESK",
+      "content": "1인 지정 개인 작업실 - OPEN DESK",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "개방된 공간에 자리를 지정하여 사용합니다. 잠금 가능한 캐비닛이 있어 부피가 작은 개인 소지품을 보관할 수 있으며, 쾌적한 환경 속에 집중력 있는 작업이 가능합니다.",
+      "content": "개방된 공간에 자리를 지정하여 사용합니다. 잠금 가능한 캐비닛이 있어 부피가 작은 개인 소지품을 보관할 수 있으며, 쾌적한 환경 속에 집중력 있는 작업이 가능합니다.",
       "color": "Tertiary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "1인 비지정 개인 작업실 - NOMAD DESK",
+      "content": "1인 비지정 개인 작업실 - NOMAD DESK",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "개방된 공간에 어디에서든 옮겨 다니며 작업을 할 수 있는 유동형 데스크입니다. 노트북 하나와 아이디어로 멋진 결과물을 만드는 크리에이터들에게 적합한 조건입니다.",
+      "content": "개방된 공간에 어디에서든 옮겨 다니며 작업을 할 수 있는 유동형 데스크입니다. 노트북 하나와 아이디어로 멋진 결과물을 만드는 크리에이터들에게 적합한 조건입니다.",
       "color": "Tertiary_Light"
     },
     {
       "type": "Image",
-      "context": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/bananaopieceGallery/0.jpg"
+      "content": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/bananaopieceGallery/0.jpg"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "바나나 라운지- BANANA LOUNGE",
+      "content": "바나나 라운지- BANANA LOUNGE",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "데스크에 구애받지 않고 편안하게 아이디어를 구상하거나 바나나 멤버들의 협업 시에, 그리고 손님의 접객에도 이용할 수 있는 퍼블릭 라운지로 크리에이티브한 감성의 공간 디자인을 자랑합니다.",
+      "content": "데스크에 구애받지 않고 편안하게 아이디어를 구상하거나 바나나 멤버들의 협업 시에, 그리고 손님의 접객에도 이용할 수 있는 퍼블릭 라운지로 크리에이티브한 감성의 공간 디자인을 자랑합니다.",
       "color": "Tertiary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "루프탑 리조트 - ROOFTOP RESORT",
+      "content": "루프탑 리조트 - ROOFTOP RESORT",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "바람을 쐬고 노을을 보며 아이디어를 떠올립니다.\n평온하고 고즈넉한 분위기 속에서 새로운 영감을 얻을 수 있는 공간입니다.",
+      "content": "바람을 쐬고 노을을 보며 아이디어를 떠올립니다.\n평온하고 고즈넉한 분위기 속에서 새로운 영감을 얻을 수 있는 공간입니다.",
       "color": "Tertiary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "바나나 키친 - BANANA KITCHEN",
+      "content": "바나나 키친 - BANANA KITCHEN",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "허기와 갈증은 우리의 자유를 구속합니다.\n냉철함을 선사할 프리미엄 커피, 달콤한 기분을 살리는 음료 등 여러분을 리프레쉬하게 도와줄 공간입니다.",
+      "content": "허기와 갈증은 우리의 자유를 구속합니다.\n냉철함을 선사할 프리미엄 커피, 달콤한 기분을 살리는 음료 등 여러분을 리프레쉬하게 도와줄 공간입니다.",
       "color": "Tertiary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "컨퍼런스&미팅룸 - CONFERENCE&MEETING ROOM",
+      "content": "컨퍼런스&미팅룸 - CONFERENCE&MEETING ROOM",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "회의와 교육, 프리젠테이션을 할 수 있도록 마련된 공간으로 신청을 통해 이용할 수 있습니다.\n외부 환경과 차단되어 보다 능률적으로 업무를 볼 수 있는 공간입니다.",
+      "content": "회의와 교육, 프리젠테이션을 할 수 있도록 마련된 공간으로 신청을 통해 이용할 수 있습니다.\n외부 환경과 차단되어 보다 능률적으로 업무를 볼 수 있는 공간입니다.",
       "color": "Tertiary_Light"
     },
     {
       "type": "Text",
       "font": "title2",
-      "context": "가격",
+      "content": "가격",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "1 Month : 280,000원",
+      "content": "1 Month : 280,000원",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "title2",
-      "context": "업무환경",
+      "content": "업무환경",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "초고속 인터넷 | 넓고 쾌적한 라운지 | 고해상도 프린트 | 사무용품 | 현장 매니저 | 청소지원팀",
+      "content": "초고속 인터넷 | 넓고 쾌적한 라운지 | 고해상도 프린트 | 사무용품 | 현장 매니저 | 청소지원팀",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "title2",
-      "context": "Contect",
+      "content": "Contect",
       "color": "Primary_Light"
     },
     {
       "type": "Text",
       "font": "articleBody",
-      "context": "주소 : 제주특별자치도 제주시 원노형3길 4-9\n연락처 : 064-743-1661\n메일 : bananajeju@daum.net",
+      "content": "주소 : 제주특별자치도 제주시 원노형3길 4-9\n연락처 : 064-743-1661\n메일 : bananajeju@daum.net",
       "color": "Primary_Light"
     }
   ]
