@@ -5,6 +5,28 @@
       "regionname": "제주도",
       "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/opiece.jpeg",
       "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/opiece.json",
+      "feature": [
+        {
+          "featureImage" : "cafeTest",
+          "featureDescription": "커피가 무료에요"
+        },
+        {
+          "featureImage" : "coffeeTest",
+          "featureDescription": "카페같은 분위기에요"
+        },
+        {
+          "featureImage" : "monitorTest",
+          "featureDescription": "모니터를 이용할 수 있어요"
+        },
+        {
+          "featureImage" : "motelTest",
+          "featureDescription": "숙소가 같이 있어요"
+        },
+        {
+          "featureImage" : "reservationTest",
+          "featureDescription": "1일 단위로 예약할 수 있어요"
+        }
+      ],
       "galleryurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/opiecegallery.json",
       "latitude": 33.5328984,
       "longitude": 126.6311401,
@@ -70,6 +92,28 @@
       "regionname": "제주도",
       "imageurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Home/Image/Office/bananaopiece.jpeg",
       "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/bananaopiece.json",
+      "feature": [
+        {
+          "featureImage" : "cafeTest",
+          "featureDescription": "커피가 무료에요"
+        },
+        {
+          "featureImage" : "coffeeTest",
+          "featureDescription": "카페같은 분위기에요"
+        },
+        {
+          "featureImage" : "monitorTest",
+          "featureDescription": "모니터를 이용할 수 있어요"
+        },
+        {
+          "featureImage" : "motelTest",
+          "featureDescription": "숙소가 같이 있어요"
+        },
+        {
+          "featureImage" : "reservationTest",
+          "featureDescription": "1일 단위로 예약할 수 있어요"
+        }
+      ],
       "galleryurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/bananaopiecegallery.json",
       "latitude": 33.4871911,
       "longitude": 126.4851654,
