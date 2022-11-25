@@ -11,8 +11,8 @@
           "featureDescription": "커피가 무료에요"
         },
         {
-          "featureImage" : "coffeeTest",
-          "featureDescription": "카페같은 분위기에요"
+          "featureImage" : "cafeTest",
+          "featureDescription": "커피가 무료에요"
         },
         {
           "featureImage" : "monitorTest",
@@ -122,7 +122,7 @@
           "title": "경미해장국",
           "latitude": 33.4885752,
           "longitude": 126.4829022,
-          "type": "retaurant"
+          "type": "restaurant"
         },
         {
           "title": "차이나 하우스",
@@ -134,7 +134,7 @@
           "title": "춘리 마라탕",
           "latitude": 33.4843427,
           "longitude": 126.4808639,
-          "type": "retaurant"
+          "type": "restaurant"
         },
         {
           "title": "밀면 맛있는집",
