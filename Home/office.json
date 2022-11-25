@@ -21,10 +21,6 @@
         {
           "featureImage" : "motelTest",
           "featureDescription": "숙소가 같이 있어요"
-        },
-        {
-          "featureImage" : "reservationTest",
-          "featureDescription": "1일 단위로 예약할 수 있어요"
         }
       ],
       "galleryurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/opiecegallery.json",
