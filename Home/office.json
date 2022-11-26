@@ -7,20 +7,24 @@
       "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/opiece.json",
       "feature": [
         {
-          "featureImage" : "cafeTest",
+          "featureImage": "freeCoffee",
           "featureDescription": "커피가 무료에요"
         },
         {
-          "featureImage" : "cafeTest",
-          "featureDescription": "커피가 무료에요"
+          "featureImage": "cafeMooth",
+          "featureDescription": "카페같은 분위기에요"
         },
         {
-          "featureImage" : "monitorTest",
+          "featureImage": "usableMonitor",
           "featureDescription": "모니터를 이용할 수 있어요"
         },
         {
-          "featureImage" : "motelTest",
+          "featureImage": "withLodging",
           "featureDescription": "숙소가 같이 있어요"
+        },
+        {
+          "featureImage": "dailyReservation",
+          "featureDescription": "1일 단위로 예약할 수 있어요"
         }
       ],
       "galleryurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/opiecegallery.json",
@@ -90,23 +94,15 @@
       "introduceurl": "https://raw.githubusercontent.com/IIION/WorkadeData/main/Office/bananaopiece.json",
       "feature": [
         {
-          "featureImage" : "cafeTest",
+          "featureImage": "freeCoffee",
           "featureDescription": "커피가 무료에요"
         },
         {
-          "featureImage" : "coffeeTest",
+          "featureImage": "cafeMooth",
           "featureDescription": "카페같은 분위기에요"
         },
         {
-          "featureImage" : "monitorTest",
-          "featureDescription": "모니터를 이용할 수 있어요"
-        },
-        {
-          "featureImage" : "motelTest",
-          "featureDescription": "숙소가 같이 있어요"
-        },
-        {
-          "featureImage" : "reservationTest",
+          "featureImage": "dailyReservation",
           "featureDescription": "1일 단위로 예약할 수 있어요"
         }
       ],
